@@ -74,3 +74,13 @@ The objective of this repository is to propose an ontology that can handle data 
 <img src="ontology/grapho_ontology.jpeg" alt="Ontology Diagram"/>
 
 The image provided above displays the class diagram for reference.
+[`Ontology_without_data.ttl`](https://github.com/tommasozanon/grapho/blob/main/ontology/grapho-music-ontology-base.ttl)
+
+## Organization of the Repository
+
+The project is developed using:
+
+- [draw.io](https://drawio-app.com/) for drawing the ontology model.
+- [PROTÉGÉ](https://protege.stanford.edu/) for implementing the ontology model.
+- [Python RDFlib](https://rdflib.readthedocs.io/en/stable/) for serializing the data.
+- [GraphDB](https://www.ontotext.com/products/graphdb/) for querying the data.
