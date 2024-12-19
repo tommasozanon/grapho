@@ -29,3 +29,48 @@ The objective of this repository is to propose an ontology that can handle data 
 - General information about MusicEntity (single Artist or Group) and its discography
 - Information about user-generated Playlist
 - Information about Movies in which an Artist has taken part
+
+## Datasets Overview
+
+## Main statistics
+
+4806 different **Music Entity** (either **Group** or **Artist**) with information about :
+
+- Stage Name
+- Number of spotify, youtube and twitter followers
+- Genre
+- Personal Information (Gender, Birthdate and Nationality)
+- Movies that they have worked in
+- Awards (Grammy and Oscar) nominations and winnings
+
+236613 **Album** with information about:
+
+- Name of the album
+- The Release Date
+- Number of songs contained (Albums with one song are inferred to be Singles)
+
+1496098 **Song** with information about:
+
+- Name
+- Duration
+- The fact if they are explicit or not
+- Youtube Statistics (Likes and Views)
+
+5067 **Movie** with information about:
+
+- Title (movieName)
+- Release Date
+- Duration
+- Oscar nominated and won
+
+2694 **Playlist** with information about:
+
+- Name
+- Followers
+- Song added to the playlist
+
+## Ontology Diagram
+
+<img src="ontology/grapho_ontology.jpeg" alt="Ontology Diagram"/>
+
+The image provided above displays the class diagram for reference.
