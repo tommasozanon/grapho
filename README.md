@@ -32,7 +32,7 @@ The objective of this repository is to propose an ontology that can handle data 
 
 ## DB download
 
-[Click here](https://drive.google.com/file/d/1700qKZ2zNVgRRuf5fVtBHn6WdMnfyM_9/view?usp=share_link) to download the database.
+[Click here](https://drive.google.com/file/d/1WgeK0cDiF5vbboyfYYpFqlsqa_HcDC_F/view?usp=sharing) to download the database.
 
 ## Ontology Diagram
 
